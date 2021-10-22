@@ -1,2 +1,2 @@
 Fiz uma alteração dentro do ficheiro1
-Alterações efetuadas no branch NovaFeature
+Alterações no branch NovaFeature
