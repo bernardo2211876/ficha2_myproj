@@ -1,2 +1,3 @@
-Fiz uma alteração dentro do ficheiro1
+Fiz uma alteração dentro do ficheiro
 Alterações efetuadas no branch Master
+Alterações no branch NovaFeature
