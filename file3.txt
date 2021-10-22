@@ -1,4 +1,19 @@
-ul
-dsad
-sadasda
-sadasdadsasdi
+Este é o exemplo de um ficheiro de texto file3
+
+<h2>Bebidas<h2>
+
+<ul>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ul>
+
+<h1>Lista de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
+</ul>
